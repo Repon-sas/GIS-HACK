@@ -1,0 +1,240 @@
+{
+    "posts": [
+        {
+            "image": "https://d.radikal.ru/d41/1805/23/a1f036f62e79.jpg",
+            "title": "Юрта",
+            "text": "САМЫЙ ТРУДНОДОСТУПНЫЙ ЭВЕНО-БЫТАНТАЙСКИЙ РАЙОН",
+            "id": 1,
+            "coords": [
+                67.876006,
+                129.721554
+            ]
+        },
+        {
+            "image": "https://media.ykt.ru/upload/photo/2019/05/24/mini/3e0fa8af-108b-4ca4-83ef-8038cec90089.jpeg",
+            "title": "Таинственный Саккырыр",
+            "text": "В Тюгясирский наслег меня привела одна из моих многочисленных неофициальных профессий. Я никогда не бывал в тех краях, что будило во мне азарт исследователя и ликование первооткрывателя. Что это за территория? Насколько она отдаленна и сурова? Какое народонаселение живет там?",
+            "id": 2,
+            "coords": [
+                67.734766,
+                129.092586
+            ]
+        },
+        {
+            "image": "https://www.centralasia-travel.com/uploads/gallery/1384/kyrgyz-yurt-1200-1.jpg",
+            "title": "Юрта",
+            "text": "Возможно, прообразом юрты в эпоху поздней бронзы XII—IX веках до нашей эры, являлись жилища андроновцев[3]. Древнейшие визуальные изображения юрты (вернее, верблюдов навьюченных деталями юрты) дошли на погребальных статуэтках середины I тысячелетия н. э. из Северного Китая[4]. Разнообразный материал, характеризующий развитие юрты со времён монгольских завоеваний XIII века, содержится в китайских, а также среднеазиатских, иранских и турецких миниатюрах.",
+            "id": 3,
+            "coords": [
+                67.601052,
+                129.803951
+            ]
+        },
+        {
+            "image": "https://lh3.googleusercontent.com/proxy/mpg4aQg-MpabRMQAtGGyI_oHxF65pCSG26TdMJ1eZwN0ntgEluEgGSn7LpR5ZQ19F7qySmw_sbzGcHQpJLTNcRSMXQTEiamhjGyCEt8LI7WzcclsJcda40qC",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "id": 4,
+            "coords": [
+                67.959721,
+                131.028927
+            ]
+        },
+        {
+            "image": "https://i.pinimg.com/originals/a0/99/47/a09947713c74495fde5e41eef22fa676.jpg",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "coords": [
+                68.110878,
+                129.636410
+            ],
+            "id": 5
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkselBIB1kanyVHQVmpMMUo8Rd_P1SYQ4iQ&usqp=CAU",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "coords": [
+                67.705581,
+                130.798214
+            ],
+            "id": 6
+        },
+        {
+            "image": "https://st2.depositphotos.com/6861126/9642/i/950/depositphotos_96424564-stock-photo-kazakh-yurt-in-the-autumn.jpg",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "id": 7,
+            "coords": [
+                67.598956,
+                130.174740
+            ]
+        },
+        {
+            "image": "https://moscow-airports.com/wp-content/uploads/2020/06/kak-v-kalmykii-byl-sozdan-otel-iz-yurt-i-vyshlo-li-chto-to-iz-etoj-zatei-1.jpeg",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "id": 8,
+            "coords": [
+                67.729371,
+                130.204162
+            ]
+        },
+        {
+            "image": "https://lh3.googleusercontent.com/proxy/0MgJsZavYNSyMarMt1okda6yazvoF4ptFfKt7_nzOqwNTUAW1IeG_vTyAFwtJIC1hdokK6AlPA_iJjkRw6rdB1jlABVolV0iUef-NSDVMh5jlfqThEvP4hhrzrkZ_3nM33AwRpbRhw",
+            "title": "Юрта",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do",
+            "coords": [
+                67.576944,
+                128.760250
+            ],
+            "id": 9
+        }
+    ],
+    "route": [
+        {
+            "id": 1,
+            "title": "kokoslayer",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzjNU4tiw5c0ytvW7BdATuVJ1YnbEF7iS7w&usqp=CAU",
+            "coords": [
+                [
+                    67.789841,
+                    130.309443
+                ],
+                [
+                    67.788927,
+                    130.304300
+                ],
+                [
+                    67.788054,
+                    130.298214
+                ],
+                [
+                    67.786664,
+                    130.294961
+                ],
+                [
+                    67.785631,
+                    130.291708
+                ],
+                [
+                    67.785433,
+                    130.288140
+                ],
+                [
+                    67.785473,
+                    130.283732
+                ],
+                [
+                    67.785433,
+                    130.280059
+                ],
+                [
+                    67.784281,
+                    130.275442
+                ]
+            ],
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do"
+        },
+        {
+            "id": 2,
+            "title": "jojo",
+            "image": "https://www.google.com/search?q=jojo&sxsrf=ALeKk01zHgACiYdMnQxHhrXbkq6Ikjpn9Q:1615426067778&tbm=isch&source=iu&ictx=1&fir=e6YwNLukbs-f-M%252CHFs1OwWyB-sqOM%252C_&vet=1&usg=AI4_-kSsccEAcUovnmRpO_6GQX43JuHwUQ&sa=X&ved=2ahUKEwjw3LiHi6fvAhVtoosKHW7oDIYQ9QF6BAgREAE#imgrc=e6YwNLukbs-f-M",
+            "coords": [
+                [
+                    67.768906,
+                    130.378808
+                ],
+                [
+                    67.768390,
+                    130.385209
+                ],
+                [
+                    67.767754,
+                    130.391925
+                ],
+                [
+                    67.766998,
+                    130.396018
+                ],
+                [
+                    67.765965,
+                    130.400845
+                ],
+                [
+                    67.764653,
+                    130.404098
+                ],
+                [
+                    67.763540,
+                    130.408191
+                ],
+                [
+                    67.763302,
+                    130.415537
+                ],
+                [
+                    67.762984,
+                    130.422043
+                ],
+                [
+                    67.762348,
+                    130.428340
+                ],
+                [
+                    67.762984,
+                    130.433587
+                ]
+            ],
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do"
+        },
+        {
+            "id": 3,
+            "title": "jojo",
+            "image": "https://www.google.com/search?q=jojo&sxsrf=ALeKk01zHgACiYdMnQxHhrXbkq6Ikjpn9Q:1615426067778&tbm=isch&source=iu&ictx=1&fir=e6YwNLukbs-f-M%252CHFs1OwWyB-sqOM%252C_&vet=1&usg=AI4_-kSsccEAcUovnmRpO_6GQX43JuHwUQ&sa=X&ved=2ahUKEwjw3LiHi6fvAhVtoosKHW7oDIYQ9QF6BAgREAE#imgrc=e6YwNLukbs-f-M",
+            "coords": [
+                [
+                    67.813606,
+                    130.330907
+                ],
+                [
+                    67.815490,
+                    130.324399
+                ],
+                [
+                    67.817688,
+                    130.321907
+                ],
+                [
+                    67.819939,
+                    130.320522
+                ],
+                [
+                    67.822188,
+                    130.316091
+                ],
+                [
+                    67.823706,
+                    130.311937
+                ],
+                [
+                    67.823863,
+                    130.307645
+                ],
+                [
+                    67.824438,
+                    130.303352
+                ],
+                [
+                    67.823810,
+                    130.302244
+                ],
+                [
+                    67.823392,
+                    130.295459
+                ]
+            ],
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure do"
+        }
+    ]
+}
